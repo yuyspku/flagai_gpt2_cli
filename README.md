@@ -1,7 +1,6 @@
 # Introduction to GPT-2 model(Deep Learning Class on LLMs)
 
-
-# CLI interface for GALACTICA
+# CLI interface for GPT-2 LLM
 A simple cli for the GPT-2 LLM. 
 
 ## Installation 
