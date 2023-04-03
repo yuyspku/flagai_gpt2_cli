@@ -1,5 +1,3 @@
-# flagai_gpt2_cli
-
 # Introduction to GPT-2 model(Deep Learning Class on LLMs)
 
 
